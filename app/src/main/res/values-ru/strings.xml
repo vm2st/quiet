@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Тихо! Я запоминаю</string>
+    <string name="your_rituals">Ваши ритуалы</string>
+    <string name="add_ritual">Добавить ритуал</string>
+    <string name="ritual_name_hint">Например, «Выключил утюг»</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="delete">Удалить</string>
+    <string name="confirm_ritual_title">Подтвердите ритуал</string>
+    <string name="confirm_ritual_message">Вы «%s»?</string>
+    <string name="check_notification_title">Проверьте свой ритуал</string>
+    <string name="check_notification_text">Вы не забыли «%s»?</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="ritual_added">Ритуал добавлен</string>
+    <string name="ritual_deleted">Ритуал удалён</string>
+    <string name="ritual_confirmed">Ритуал подтверждён</string>
+    <string name="did_it">Нажми, чтобы сделать</string>
+    <string name="done">Сделано! Нажми, чтобы отменить</string>
+</resources>

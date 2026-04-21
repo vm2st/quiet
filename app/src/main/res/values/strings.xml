@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hush! I Remember</string>
+    <string name="your_rituals">Your Rituals</string>
+    <string name="add_ritual">Add Ritual</string>
+    <string name="ritual_name_hint">E.g., "Turned off iron"</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_ritual_title">Confirm Ritual</string>
+    <string name="confirm_ritual_message">Did you "%s"?</string>
+    <string name="check_notification_title">Check your ritual</string>
+    <string name="check_notification_text">Did you remember to "%s"?</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="ritual_added">Ritual added</string>
+    <string name="ritual_deleted">Ritual deleted</string>
+    <string name="ritual_confirmed">Ritual confirmed</string>
+    <string name="did_it">Tap to confirm</string>
+    <string name="done">Done! Tap to undo</string>
+</resources>
